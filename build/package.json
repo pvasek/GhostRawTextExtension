@@ -1,0 +1,8 @@
+{
+  "name": "ghost-editor-extensions",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-zip": "~0.12.0"
+  }
+}
